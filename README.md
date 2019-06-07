@@ -5,7 +5,16 @@ Directories in 'output/' are then used for burning to disk(s)
 
 ## Getting Started
 
-First to start, make sure you have the proper npm modules installed,
+First, clone the Github repo,
+```
+git clone https://github.com/msg138/FileSortBurn.git
+```
+And move into the new directoy to proceed,
+```
+cd FileSortBurn
+```
+
+Next, make sure you have the proper npm modules installed,
 ```
 npm install readline-sync
 npm install fs
