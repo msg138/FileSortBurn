@@ -1,0 +1,30 @@
+{
+  "name": "file-sort-burn",
+  "version": "1.0.0",
+  "description": "Sort files from directory 'input/' into multiple directories in 'output/' and burn to disk(s)",
+  "main": "scansort.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "init": "node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msg138/FileSortBurn.git"
+  },
+  "keywords": [
+    "burn",
+    "cd",
+    "organize",
+    "backup"
+  ],
+  "author": "Michael George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msg138/FileSortBurn/issues"
+  },
+  "homepage": "https://github.com/msg138/FileSortBurn#readme"
+}
