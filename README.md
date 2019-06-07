@@ -36,6 +36,12 @@ BEFORE running, you will need to set the user for GPG keys (should be an email),
 
 ### Prerequisites
 
+Required installed commands,
+```
+cdrecord
+mkisofs
+```
+
 Required NodeJS Npm modules,
 ```
 npm install readline-sync
