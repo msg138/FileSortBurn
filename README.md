@@ -16,13 +16,12 @@ cd FileSortBurn
 
 Next, make sure you have the proper npm modules installed,
 ```
-npm install readline-sync
-npm install fs
+npm install
 ```
 
 Then to ensure that the directories are made, run init,
 ```
-npm init
+npm run init
 ```
 
 Then you can run with this syntax,

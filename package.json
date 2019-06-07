@@ -22,7 +22,7 @@
     "backup"
   ],
   "author": "Michael George",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/msg138/FileSortBurn/issues"
   },

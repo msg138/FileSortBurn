@@ -9,7 +9,7 @@ if(!fs.existsSync('input'))
 
 // Make output directory
 if(!fs.existsSync('output'))
-  fs.mkdirSync('output);
+  fs.mkdirSync('output');
 
 // Make our tree directory
 if(!fs.existsSync('tree'))
