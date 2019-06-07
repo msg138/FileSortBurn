@@ -1,4 +1,8 @@
 /*jslint ES6 */
+
+// keep track of the GPG key  email
+const user = '';
+
 // Set our global defaults
 // Get our File System object
 const fs = require('fs');
@@ -213,9 +217,6 @@ moveFiles('input', maxFileSize * 1000000, 'output');
 
 // Get our readline sync library.
 const readlineSync = require('readline-sync');
-
-// keep track of the GPG key  email
-const user = '';
 
 // Keep track of the device for the CD drive
 let globalDev = '';
